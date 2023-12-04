@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,100&display=swap');
+
+* {
+    border: none;
+    font-family: Poppins, sans-serif; 
+}
+
+body {
+    background-image: linear-gradient(to right, #17a2b8, #007bff);
+    color: #fff;
+
+}
+
+.navbar {
+    margin: 1rem 2% 10rem;
+}
+
+.welcome {
+    text-align: center;
+    
+}
+
+.find-lost {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.find {
+    background-color: orange;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.lost {
+    background-color: #012147;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+}
+
+.create {
+    font-family: b;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.your {
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+
+.AU {
+    font-size: 60px;
+    font-weight: 1000;
+}
+
+.navbar-nav {
+    text-align: center;
+}
